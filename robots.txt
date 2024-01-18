@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://kuno.thethingsystem.com/superjp/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/gilajp/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/gojekpot/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/winstrike69/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/slotgacor/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/slotzeus/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/kaptenjackpot/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/boosterjp/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/kerajaanslot/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/pakong86/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/viral88/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/clan4d/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/dinamit4d/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/elang212/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/gori77/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/viral4d/sitemap.xml
+Sitemap: http://kuno.thethingsystem.com/playground88/sitemap.xml
